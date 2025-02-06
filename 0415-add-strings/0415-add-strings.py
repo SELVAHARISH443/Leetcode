@@ -1,4 +1,7 @@
-class Solution:
-    def addStrings(self, num1: str, num2: str) -> str:
-        sys.set_int_max_str_digits(10000)
-        return str(int(num1)+int(num2))
+class Solution(object):
+    def addStrings(self, num1, num2):
+       a=int(num1)
+       b=int(num2)
+       ans=a+b
+       return str(ans)
+    
