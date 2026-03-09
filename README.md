@@ -7,6 +7,7 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/SELVAHARISH443/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SELVAHARISH443/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SELVAHARISH443/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SELVAHARISH443/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -31,6 +32,7 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/SELVAHARISH443/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SELVAHARISH443/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
