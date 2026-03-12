@@ -6,6 +6,7 @@ Solution for Leetcode Problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/SELVAHARISH443/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/SELVAHARISH443/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SELVAHARISH443/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -32,6 +33,7 @@ Solution for Leetcode Problems
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/SELVAHARISH443/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/SELVAHARISH443/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SELVAHARISH443/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
