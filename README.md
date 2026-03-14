@@ -14,6 +14,7 @@ Solution for Leetcode Problems
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SELVAHARISH443/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SELVAHARISH443/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,9 +47,14 @@ Solution for Leetcode Problems
 | ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SELVAHARISH443/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SELVAHARISH443/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SELVAHARISH443/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SELVAHARISH443/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 <!---LeetCode Topics End-->
