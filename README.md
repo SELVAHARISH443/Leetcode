@@ -27,6 +27,7 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SELVAHARISH443/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/SELVAHARISH443/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SELVAHARISH443/Leetcode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
