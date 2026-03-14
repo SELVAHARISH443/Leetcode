@@ -44,9 +44,11 @@ Solution for Leetcode Problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SELVAHARISH443/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SELVAHARISH443/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
