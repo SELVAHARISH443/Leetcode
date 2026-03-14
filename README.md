@@ -8,6 +8,7 @@ Solution for Leetcode Problems
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/SELVAHARISH443/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/SELVAHARISH443/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SELVAHARISH443/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -45,6 +46,7 @@ Solution for Leetcode Problems
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/SELVAHARISH443/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/SELVAHARISH443/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SELVAHARISH443/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -86,4 +88,9 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
