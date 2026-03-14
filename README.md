@@ -32,6 +32,7 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/SELVAHARISH443/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SELVAHARISH443/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/SELVAHARISH443/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SELVAHARISH443/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -93,4 +94,8 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/SELVAHARISH443/Leetcode/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
