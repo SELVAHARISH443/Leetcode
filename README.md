@@ -27,6 +27,7 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SELVAHARISH443/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SELVAHARISH443/Leetcode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Solution for Leetcode Problems
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SELVAHARISH443/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SELVAHARISH443/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SELVAHARISH443/Leetcode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +59,13 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SELVAHARISH443/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SELVAHARISH443/Leetcode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SELVAHARISH443/Leetcode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SELVAHARISH443/Leetcode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 <!---LeetCode Topics End-->
