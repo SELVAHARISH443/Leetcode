@@ -36,6 +36,7 @@ Solution for Leetcode Problems
 | [0342-power-of-four](https://github.com/SELVAHARISH443/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SELVAHARISH443/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SELVAHARISH443/Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1622-fancy-sequence](https://github.com/SELVAHARISH443/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/SELVAHARISH443/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SELVAHARISH443/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SELVAHARISH443/Leetcode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -102,4 +103,12 @@ Solution for Leetcode Problems
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/SELVAHARISH443/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/SELVAHARISH443/Leetcode/tree/main/0342-power-of-four/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/SELVAHARISH443/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/SELVAHARISH443/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
