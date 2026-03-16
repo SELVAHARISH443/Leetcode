@@ -15,6 +15,7 @@ Solution for Leetcode Problems
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SELVAHARISH443/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SELVAHARISH443/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SELVAHARISH443/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SELVAHARISH443/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -24,10 +25,12 @@ Solution for Leetcode Problems
 | ------- | ------- |
 | [0268-missing-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +41,7 @@ Solution for Leetcode Problems
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SELVAHARISH443/Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1622-fancy-sequence](https://github.com/SELVAHARISH443/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/SELVAHARISH443/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SELVAHARISH443/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SELVAHARISH443/Leetcode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SELVAHARISH443/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -45,6 +49,7 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/SELVAHARISH443/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +92,7 @@ Solution for Leetcode Problems
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SELVAHARISH443/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
