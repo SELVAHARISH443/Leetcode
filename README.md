@@ -15,6 +15,7 @@ Solution for Leetcode Problems
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SELVAHARISH443/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SELVAHARISH443/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SELVAHARISH443/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SELVAHARISH443/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -25,6 +26,7 @@ Solution for Leetcode Problems
 | ------- | ------- |
 | [0268-missing-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SELVAHARISH443/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -49,6 +51,7 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/SELVAHARISH443/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SELVAHARISH443/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -117,4 +120,8 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/SELVAHARISH443/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SELVAHARISH443/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 <!---LeetCode Topics End-->
