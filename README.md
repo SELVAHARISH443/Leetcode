@@ -19,6 +19,7 @@ Solution for Leetcode Problems
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SELVAHARISH443/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SELVAHARISH443/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SELVAHARISH443/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SELVAHARISH443/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Sorting
@@ -53,6 +54,7 @@ Solution for Leetcode Problems
 | [1672-richest-customer-wealth](https://github.com/SELVAHARISH443/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SELVAHARISH443/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SELVAHARISH443/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SELVAHARISH443/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SELVAHARISH443/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
