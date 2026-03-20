@@ -12,6 +12,7 @@ Solution for Leetcode Problems
 | [0704-binary-search](https://github.com/SELVAHARISH443/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SELVAHARISH443/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0888-fair-candy-swap](https://github.com/SELVAHARISH443/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SELVAHARISH443/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SELVAHARISH443/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -28,6 +29,7 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0888-fair-candy-swap](https://github.com/SELVAHARISH443/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SELVAHARISH443/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SELVAHARISH443/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -69,10 +71,12 @@ Solution for Leetcode Problems
 | [0704-binary-search](https://github.com/SELVAHARISH443/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SELVAHARISH443/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0888-fair-candy-swap](https://github.com/SELVAHARISH443/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0888-fair-candy-swap](https://github.com/SELVAHARISH443/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
