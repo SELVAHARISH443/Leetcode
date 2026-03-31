@@ -89,6 +89,7 @@ Solution for Leetcode Problems
 | [1980-find-unique-binary-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SELVAHARISH443/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SELVAHARISH443/Leetcode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +144,9 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SELVAHARISH443/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SELVAHARISH443/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
