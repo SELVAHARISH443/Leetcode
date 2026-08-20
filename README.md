@@ -7,6 +7,7 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/SELVAHARISH443/Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/SELVAHARISH443/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -84,6 +85,7 @@ Solution for Leetcode Problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/SELVAHARISH443/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/SELVAHARISH443/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SELVAHARISH443/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/SELVAHARISH443/Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -162,4 +164,8 @@ Solution for Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/SELVAHARISH443/Leetcode/tree/main/2751-robot-collisions/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/SELVAHARISH443/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
